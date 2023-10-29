@@ -45,7 +45,16 @@ h4 {
 
 /* Footer and Nav */
 
-@media (max-width:767.98px) {}
+@media (max-width:767.98px) {
+    
+.js-sidebar {
+        margin-left: -264px;
+}
+
+#sidebar.collapsed {
+        margin-left: 0;
+}
+}
 
 /* Theme Toggler */
 
