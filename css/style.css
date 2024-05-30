@@ -69,7 +69,6 @@ h4 {
 }
 
 .sidebar-nav {
-    flex-grow: 1;
     list-style: none;
     margin-bottom: 0;
     padding-left: 0;
